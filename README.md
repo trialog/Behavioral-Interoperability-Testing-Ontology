@@ -15,7 +15,7 @@ The Behavioral Interoperability Testing Ontology (BITO) provides an ontology-bas
 | **DOI** | <https://doi.org/10.5281/zenodo.23111388> |
 | **Zenodo archive** | <https://zenodo.org/records/23111388> |
 | **License** | [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) |
-| **Repository** | <https://github.com/TareqChy1/Behavioral-Interoperability-Testing-Ontology> |
+| **Repository** | <https://github.com/trialog/Behavioral-Interoperability-Testing-Ontology> |
 | **Citation metadata** | [`CITATION.cff`](CITATION.cff) |
 
 ## Ontology
